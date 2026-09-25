@@ -24,4 +24,4 @@ aliases:
 editor_integration:
   - neovim
 source:
-  id: github:mistweaverco/kulala.nvim
+  id: github:dont-be-evil-company/kulala.nvim

@@ -2,7 +2,7 @@
 ---
 name: tree-sitter-kulala-http
 description: Tree-sitter grammar for http (kulala flavour).
-homepage: https://github.com/mistweaverco/tree-sitter-kulala-http
+homepage: https://github.com/dont-be-evil-company/tree-sitter-kulala-http
 licenses:
   - MIT
 languages:
@@ -11,7 +11,9 @@ languages:
 categories:
   - Tree-sitter-parser
 source:
-  id: github:mistweaverco/tree-sitter-kulala-http
+  id: github:dont-be-evil-company/tree-sitter-kulala-http
+aliases:
+  - mistweaverco/tree-sitter-kulala-http
 treesitter:
   build:
     - language: kulala_http
