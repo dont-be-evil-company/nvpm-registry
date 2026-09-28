@@ -2,11 +2,12 @@
 ---
 name: nvpm.nvim
 description: |-
-  A lazy.nvim-compatible (drop-in replacement) Neovim plugin loader for packages installed with nvpm.
+  A lazy.nvim-compatible (drop-in replacement)
+  Neovim plugin loader for packages installed with nvpm.
 
   nvpm handles install, update, and lock (nvpm-lock.json).
   nvpm.nvim handles runtime loading from your lazy-style plugin specs.
-homepage: https://github.com/mistweaverco/nvpm.nvim
+homepage: https://github.com/dont-be-evil-company/nvpm.nvim
 licenses:
   - MIT
 categories:
@@ -20,4 +21,4 @@ aliases:
 editor_integration:
   - neovim
 source:
-  id: github:mistweaverco/nvpm.nvim
+  id: github:dont-be-evil-company/nvpm.nvim

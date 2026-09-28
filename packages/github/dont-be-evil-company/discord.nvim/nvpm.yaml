@@ -2,7 +2,7 @@
 ---
 name: discord.nvim
 description: An unobtrusive Discord Rich Presence plugin that just works.
-homepage: https://github.com/mistweaverco/discord.nvim
+homepage: https://github.com/dont-be-evil-company/discord.nvim
 licenses:
   - MIT
 categories:
@@ -16,4 +16,4 @@ aliases:
 editor_integration:
   - neovim
 source:
-  id: github:mistweaverco/discord.nvim
+  id: github:dont-be-evil-company/discord.nvim

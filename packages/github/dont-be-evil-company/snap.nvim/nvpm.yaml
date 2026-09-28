@@ -14,4 +14,4 @@ aliases:
 editor_integration:
   - neovim
 source:
-  id: github:mistweaverco/snap.nvim
+  id: github:dont-be-evil-company/snap.nvim

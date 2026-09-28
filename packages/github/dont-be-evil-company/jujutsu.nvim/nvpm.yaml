@@ -2,7 +2,7 @@
 ---
 name: jujutsu.nvim
 description: A Magit-style Jujutsu (jj) interface for Neovim.
-homepage: https://github.com/mistweaverco/jujutsu.nvim
+homepage: https://github.com/dont-be-evil-company/jujutsu.nvim
 licenses:
   - MIT
 categories:
@@ -14,4 +14,4 @@ aliases:
 editor_integration:
   - neovim
 source:
-  id: github:mistweaverco/jujutsu.nvim
+  id: github:dont-be-evil-company/jujutsu.nvim

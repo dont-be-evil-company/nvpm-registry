@@ -9,7 +9,7 @@ description: |-
   you close it and restores it when you open it.
 
   So you have your window layout and buffers just as you left them.
-homepage: https://github.com/mistweaverco/kikao.nvim
+homepage: https://github.com/dont-be-evil-company/kikao.nvim
 licenses:
   - MIT
 categories:
@@ -22,4 +22,4 @@ aliases:
 editor_integration:
   - neovim
 source:
-  id: github:mistweaverco/kikao.nvim
+  id: github:dont-be-evil-company/kikao.nvim

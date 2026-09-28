@@ -2,7 +2,7 @@
 ---
 name: floaterm.nvim
 description: A minimal, single floating terminal inside Neovim.
-homepage: https://github.com/mistweaverco/floaterm.nvim
+homepage: https://github.com/dont-be-evil-company/floaterm.nvim
 licenses:
   - MIT
 categories:
@@ -14,4 +14,4 @@ aliases:
 editor_integration:
   - neovim
 source:
-  id: github:mistweaverco/floaterm.nvim
+  id: github:dont-be-evil-company/floaterm.nvim

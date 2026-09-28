@@ -7,7 +7,7 @@ description: |-
   Bafa is swahili for "buffer".
 
   It allows you to quickly switch between buffers and delete them.
-homepage: https://github.com/mistweaverco/bafa.nvim
+homepage: https://github.com/dont-be-evil-company/bafa.nvim
 licenses:
   - MIT
 categories:
@@ -20,4 +20,4 @@ aliases:
 editor_integration:
   - neovim
 source:
-  id: github:mistweaverco/bafa.nvim
+  id: github:dont-be-evil-company/bafa.nvim

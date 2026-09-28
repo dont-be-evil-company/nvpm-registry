@@ -4,7 +4,7 @@ name: retro-theme.nvim
 description: |-
   A minimal retro theme for Neovim.
   Synthwave, 80s, and 90s vibes.
-homepage: https://github.com/mistweaverco/retro-theme.nvim
+homepage: https://github.com/dont-be-evil-company/retro-theme.nvim
 licenses:
   - MIT
 categories:
@@ -20,4 +20,4 @@ aliases:
 editor_integration:
   - neovim
 source:
-  id: github:mistweaverco/retro-theme.nvim
+  id: github:dont-be-evil-company/retro-theme.nvim

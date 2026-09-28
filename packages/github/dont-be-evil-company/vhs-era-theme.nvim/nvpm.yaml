@@ -21,4 +21,4 @@ aliases:
 editor_integration:
   - neovim
 source:
-  id: github:mistweaverco/vhs-era-theme.nvim
+  id: github:dont-be-evil-company/vhs-era-theme.nvim
