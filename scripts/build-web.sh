@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-REPO='mistweaverco/nvpm-registry'
+REPO='dont-be-evil-company/nvpm-registry'
 TMP_DIR='.tmp'
 NVPM_REGISTRY_NAME='nvpm-registry'
 NVPM_REGISTRY_FILE="${NVPM_REGISTRY_NAME}.json.zip"
