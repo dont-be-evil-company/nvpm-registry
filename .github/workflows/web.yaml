@@ -21,7 +21,7 @@ permissions:
 
 jobs:
   build-linux:
-    name: Update registry
+    name: Build and Deploy Web
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
