@@ -2,9 +2,10 @@
 ---
 name: kulala-cli
 description: |
-  A fully-featured HTTP/GraphQL/gRPC/Websocket-client interface for your command-line,
+  A fully-featured HTTP/GraphQL/gRPC/Websocket-client interface for
+  your command-line,
   that supports the Jetbrains .http spec (with full scripting support).
-homepage: https://github.com/mistweaverco/kulala-cli
+homepage: https://github.com/dont-be-evil-company/kulala-cli
 licenses:
   - MIT
 languages:
@@ -13,6 +14,6 @@ categories:
   - Runtime
   - CLI
 source:
-  id: npm:@mistweaverco/kulala-cli
+  id: npm:@dont-be-evil-company/kulala-cli
 bin:
   kulala: npm:kulala

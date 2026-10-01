@@ -3,7 +3,7 @@
 name: kulala-fmt
 description: |
   kulala-fmt An opinionated .http and .rest files linter and formatter.
-homepage: https://github.com/mistweaverco/kulala-fmt
+homepage: https://github.com/dont-be-evil-company/kulala-fmt
 licenses:
   - MIT
 languages:
@@ -12,6 +12,6 @@ categories:
   - Formatter
   - Linter
 source:
-  id: npm:@mistweaverco/kulala-fmt
+  id: npm:@dont-be-evil-company/kulala-fmt
 bin:
   kulala-fmt: npm:kulala-fmt
