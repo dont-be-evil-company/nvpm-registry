@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://registry.nvpm.dev/package.schema.json
+---
+name: roslyn.nvim
+description: |-
+  A Neovim plugin that provides LSP support for C# and
+  VB.NET using the Roslyn compiler platform.
+
+  Requires roslyn-language-server on your PATH.
+  You can install it with the following command:
+  ```sh
+    dotnet tool install -g roslyn-language-server \
+      --prerelease \
+      --source https://pkgs.dev.azure.com/azure-public/vside/_packaging/vs-impl/nuget/v3/index.json
+  ```
+homepage: https://github.com/seblyng/roslyn.nvim
+licenses:
+  - MIT
+categories:
+  - Plugin
+  - LSP
+tags:
+  - lsp
+editor_integration:
+  - neovim
+source:
+  id: github:seblyng/roslyn.nvim

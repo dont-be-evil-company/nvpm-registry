@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://registry.nvpm.dev/package.schema.json
+---
+name: taplo-cli
+description: |
+  A versatile, feature-rich TOML toolkit.
+homepage: https://taplo.tamasfe.dev/
+licenses:
+  - MIT
+categories:
+  - Formatter
+  - Linter
+  - LSP
+tags:
+  - cli
+  - formatter
+  - linter
+  - lsp
+  - toml
+source:
+  id: cargo:taplo-cli
+bin:
+  tgcp: cargo:taplo-cli
